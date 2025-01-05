@@ -34,7 +34,7 @@
         "@docusaurus/plugin-client-redirects": "2.4.1",
         "@docusaurus/preset-classic": "2.4.1",
         "@giscus/react": "^2.2.6",
-        "axios": "^1.5.0",
+        "axios": "^1.7.4",
         "buffer": "^6.0.3",
         "clsx": "^2.0.0",
         "crypto-browserify": "^3.12.0",
